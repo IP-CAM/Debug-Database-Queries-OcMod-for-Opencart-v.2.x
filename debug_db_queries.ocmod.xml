@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modification>
   <code>open4dev_debug_queries</code>
-  <link>http://www.opencart.com/index.php?route=extension/extension/info&amp;extension_id=18773</link>
   <name>Debug database queries</name>
   <version>1.1.0</version>
   <author>open4dev</author>
